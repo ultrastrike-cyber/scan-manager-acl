@@ -11,4 +11,4 @@ The script enumerates all groups and collects groups with a manager set. The scr
 
 The output is a table with group name, manager name, and permission. The listed manager account has permission to update membership of the corresponding group.
 
-![Output Table](https://github.com/ultrastrike-cyber/scan-manager-acl/blob/main/sample-output.jpg?raw=true)
+![Output Table](https://github.com/ultrastrike-cyber/scan-manager-acl/blob/main/sample-output.png?raw=true)
